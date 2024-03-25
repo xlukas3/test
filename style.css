@@ -1,0 +1,43 @@
+* {
+    color: blue;  
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+article{
+    font-size: 1.2rem;
+
+    &:hover
+}
+
+/*
+article:hover {
+    background-color: lightgray;
+}
+*/
+
+h2{
+    font-size: 1.5rem;
+}
+
+#nadpis {
+    color: cadetblue;
+}
+
+.odstavec {
+    font-size: 1rem;
+}
+
+article > a {
+    font-size: 1.5rem;
+}
+
+#nadpis + p {
+    color: brown;
+}
+
+h1, h2 {
+    color: darkblue;
+}
