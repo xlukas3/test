@@ -1,6 +1,21 @@
 :root {
     --zakladni-velikost-pisma: 16px;
     --druh-pisma: 'Inter', sans-serif;
+
+    --pozadi-aplikace:
+    --pozadi-navigace:
+    --pozadi-zapati:
+    --pozadi-elementu:
+    --pozadi-tlacitek:
+    --pozadi-zprava-uspech:
+    --pozadi-zprava-chyba:
+    
+    --barva-pisma-primarni:
+    --barva-pisma-sekundarni:
+    --barva-pisma-seda:
+
+    --vrzeny-stin:
+
 }
 
 html {
