@@ -1,0 +1,15 @@
+.box {
+    width: 150px;
+    height: 150px;
+
+    max-width: 100%;
+
+    background-color: aquamarine;
+}
+
+
+.flex {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
