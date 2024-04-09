@@ -1,6 +1,6 @@
 .box {
     width: 150px;
-    height: 150px;
+    height: 15px;
 
     max-width: 100%;
 
@@ -12,6 +12,5 @@
     display: grid;
     gap: 20px;
 
-
-    grid-template-columns: 200px 200px 120px;
+    grid-template-columns: 20px. 30px;
 }
