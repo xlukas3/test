@@ -5,7 +5,7 @@ declare(strict_types=1);
 
 const PRACOVNI_POZICE = "programátor";
 
-$jmeno = "Jakub Pradeniak";
+$jmeno = "Lukáš Brózda";
 
 echo $jmeno . " - " . PRACOVNI_POZICE;
 
