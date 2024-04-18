@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 $connection = new PDO(
     'mysql;dbname=blog;host=127.0.0.1',
-    'root@localhost',
+    'root',
     '',
     array(
         PDO::ATTR_EMULATE_PREPARES => false,
